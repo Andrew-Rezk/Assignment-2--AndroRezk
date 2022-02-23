@@ -2,12 +2,12 @@
 This Assignment contains three controllers which solve J1, J2, and J3 Junior problems from the waterloo Canadian Computing Competition. 
 
 J1 - Canadian Calorie Counting- Year 2006
-     // <summary>
-    // find total calories of meal by choosing list item as array and adding total cost of all arrays chosen
-    // </summary>
-    // <param> the input is the number of the item on the menu, user picks one item from each menu</param>
-    // <returns>The user input is subtracted by 1 as arrays start at 0 index. All the inputs of the user are then added to a total which is the total amount of calories</returns>
-    // GET api/J1/Menu/{1}/{1}/{1}/{1} --> 858 calories
+    <summary>
+    find total calories of meal by choosing list item as array and adding total cost of all arrays chosen
+    </summary>
+    <param> the input is the number of the item on the menu, user picks one item from each menu</param>
+    <returns>The user input is subtracted by 1 as arrays start at 0 index. All the inputs of the user are then added to a total which is the total amount of calories</returns>
+    GET api/J1/Menu/{1}/{1}/{1}/{1} --> 858 calories
 
 J2 - Shifty Sum- Year 2017
     // <summary> (This J2 problem is from 2017)
